@@ -1,0 +1,3 @@
+This is a Huffman coding smoke test.
+Repeated text should compress better than random data.
+1234567890
