@@ -15,12 +15,11 @@ Whether you're compressing large text documents or inspecting raw binary files, 
 
 ## Screenshots
 
-> *Placeholder: Add real application screenshots here before publishing.*
+<img width="1207" height="977" alt="Screenshot 2026-10-10 100442" src="https://github.com/user-attachments/assets/3e6c9a4d-1719-4794-a297-293dc5fb9bb3" />
+<img width="1217" height="982" alt="Screenshot 2026-10-10 100403" src="https://github.com/user-attachments/assets/e7ae41a3-0383-4a9c-9010-7473d7fd0164" />
 
-| Compressor View | Decompressor View |
-| :---: | :---: |
-| ![Compressor Screenshot Placeholder](docs/screenshots/compressor_mockup.png) | ![Decompressor Screenshot Placeholder](docs/screenshots/decompressor_mockup.png) |
-| *Drag-and-drop workspace with real-time compression statistics.* | *Instant `.huff` format verification and lossless restoration.* |
+
+
 
 ---
 
